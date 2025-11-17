@@ -10,6 +10,7 @@ remote_theme: mmistakes/minimal-mistakes
 # Logo & Favicon
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
+masthead_title: 'TeqTag'
 
 # Plugins
 plugins:

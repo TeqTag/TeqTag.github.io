@@ -2,14 +2,14 @@ title: TeqTag
 email: TamerBoSalem@outlook.com
 description: >-
     Your Personal Tech Hub Website.
-baseurl: '/TeqTag.github.io' # repo name
-url: 'https://teqtag.github.io' # GitHub Pages URL
+baseurl: '' # repo name
+url: '' # GitHub Pages URL
 
 twitter_username: thenewtit
 github_username: TeqTag
 
 # Theme
-remote_theme: mmistakes/minimal-mistakes
+theme: mmistakes/minimal-mistakes
 
 # Plugins
 plugins:

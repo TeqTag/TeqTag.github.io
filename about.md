@@ -1,10 +1,36 @@
 ---
 layout: single
 title: "About Me"
-permalink: /about/`
+permalink: /about/
 author_profile: true
 sidebar:
   nav: main
 ---
 
-Welcome! I am **_TAMER SALEM_**, a `passionate tech expert and designer`. This page serves as my **CV** and professional profile.
+# Professional Summary
+
+## Welcome! I'm **𝒯𝒶𝓂𝑒𝓇 𝒮𝒶𝓁𝑒𝓂.**
+
+---
+
+### **Vision & Impact**
+
+> Where Powerful Technology Meets Elegant Design, Complexity Becomes Intuitive.
+
+### Simply put:
+
+> I make complex look effortless.
+
+---
+
+### **My Value Proposition**
+
+- **Dedicated Professional:** Driven by the potential of digital creation.
+- **Core Skillset:** Fusing deep technical skill with a keen eye for aesthetics.
+
+---
+
+`This page contains my full CV and professional journey.`
+
+<br>
+*(Place your detailed CV content here, e.g., Work Experience, Education, Projects)*

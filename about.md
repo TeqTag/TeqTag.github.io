@@ -1,10 +1,10 @@
 ---
 layout: single
-title: 'About Me'
+title: "About Me"
 permalink: /about/
 author_profile: true
 sidebar:
-    nav: main
+  nav: main
 ---
 
-Welcome! I'm Tamer Salem, a tech enthusiast and design thinker. This page serves as my CV and professional profile.
+Welcome! I am **_TAMER SALEM_**, a `passionate tech expert and designer`. This page serves as my **CV** and professional profile.

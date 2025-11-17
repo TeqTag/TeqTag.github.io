@@ -2,6 +2,7 @@
 layout: single
 title: 'Apps'
 permalink: /apps/
+author_profile: true
 ---
 
 Here you can list resources, downloads, or portfolio items.

@@ -7,6 +7,8 @@ sidebar:
   nav: main
 ---
 
+---
+
 > ### Professional Summary
 
 ### Welcome! I am,
@@ -17,8 +19,10 @@ sidebar:
 
 ## Simply put: I make complex look effortless.
 
-- **Dedicated Professional:** Driven by the potential of digital creation.
-- **Core Skillset:** Fusing deep technical skill with a keen eye for aesthetics.
+- **Dedicated Professional:**
+  - Driven by the potential of digital creation.
+- **Core Skillset:**
+  - Fusing deep technical skill with a keen eye for aesthetics.
 
 ---
 

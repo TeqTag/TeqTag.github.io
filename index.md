@@ -27,3 +27,5 @@ feature_row:
       btn_label: 'My CV'
       btn_class: 'btn--primary'
 ---
+
+{% include feature_row %}

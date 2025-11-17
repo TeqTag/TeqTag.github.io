@@ -3,6 +3,8 @@ layout: single
 title: 'Apps'
 permalink: /apps/
 author_profile: true
+sidebar:
+    nav: main
 ---
 
 Here you can list resources, downloads, or portfolio items.

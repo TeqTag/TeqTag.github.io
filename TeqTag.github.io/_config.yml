@@ -9,7 +9,7 @@ twitter_username: thenewtit
 github_username: TeqTag
 
 # Theme
-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 # Plugins
 plugins:

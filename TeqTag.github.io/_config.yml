@@ -1,0 +1,52 @@
+title: TeqTag
+email: TamerBoSalem@outlook.com
+description: >-
+    Your Personal Tech Hub Website.
+baseurl: '/TeqTag.github.io' # repo name
+url: 'https://teqtag.github.io' # GitHub Pages URL
+
+twitter_username: thenewtit
+github_username: TeqTag
+
+# Theme
+theme: minimal-mistakes-jekyll
+
+# Plugins
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-seo-tag
+    - jekyll-include-cache
+
+# Author profile (used for About/CV page)
+author:
+    name: 'Tamer BoSalem'
+    avatar: '/assets/images/avatar.png'
+    bio: 'Tech enthusiast, developer, and designer.'
+    location: 'Kuwait'
+    email: 'TamerBoSalem@outlook.com'
+    links:
+        - label: 'GitHub'
+          url: 'https://github.com/TeqTag'
+        - label: 'Twitter'
+          url: 'https://twitter.com/thenewtit'
+        - label: 'LinkedIn'
+          url: 'https://linkedin.com/in/tamerbosalem'
+
+# Navigation
+defaults:
+    - scope:
+          path: ''
+          type: pages
+      values:
+          layout: single
+          author_profile: true
+
+# Exclude unnecessary files
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - vendor/
+    - .sass-cache/
+    - .jekyll-cache/

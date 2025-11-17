@@ -3,7 +3,7 @@ email: TamerBoSalem@outlook.com
 description: >-
     Your Personal Tech Hub Website.
 baseurl: '' # repo name
-url: '' # GitHub Pages URL
+url: 'https://teqtag.github.io' # GitHub Pages URL
 
 twitter_username: thenewtit
 github_username: TeqTag
@@ -17,6 +17,7 @@ plugins:
     - jekyll-sitemap
     - jekyll-seo-tag
     - jekyll-include-cache
+    - jekyll-remote-theme
 
 # Author profile (used for About/CV page)
 author:

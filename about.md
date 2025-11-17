@@ -7,9 +7,7 @@ sidebar:
   nav: main
 ---
 
----
-
-> ### Professional Summary
+#### Professional Summary
 
 ### Welcome! I am,
 

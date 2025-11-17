@@ -3,10 +3,10 @@ layout: splash
 title: 'Welcome to TeqTag'
 permalink: /
 header:
-    overlay_image: /assets/images/hero.jpg
+    overlay_image: /assets/images/home.png
     overlay_filter: 0.3
     caption: 'Your Personal Tech Hub'
-excerpt: 'Explore applications, read tech topics, and learn more about me.'
+excerpt: 'Explore apps, read tech topics, and learn more about me.'
 feature_row:
     - image_path: /assets/images/apps.png
       alt: 'Apps'

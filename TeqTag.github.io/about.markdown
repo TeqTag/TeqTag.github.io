@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 Welcome! I'm Tamer Salem, a tech enthusiast and design thinker. This page serves as my CV and professional profile.
+This page serves as my CV and professional profile.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

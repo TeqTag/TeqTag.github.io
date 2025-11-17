@@ -28,11 +28,20 @@ author:
     email: 'TamerBoSalem@outlook.com'
     links:
         - label: 'GitHub'
+          icon: 'fab fa-github'
           url: 'https://github.com/TeqTag'
+          target: '_blank'
+          rel: 'noopener'
         - label: 'Twitter'
+          icon: 'fab fa-twitter'
           url: 'https://twitter.com/thenewtit'
+          target: '_blank'
+          rel: 'noopener'
         - label: 'LinkedIn'
+          icon: 'fab fa-twitter'
           url: 'https://linkedin.com/in/tamerbosalem'
+          target: '_blank'
+          rel: 'noopener'
 
 # Navigation
 defaults:

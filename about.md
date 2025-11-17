@@ -11,7 +11,7 @@ sidebar:
 
 ### Welcome! I am,
 
-# **_𝔗𝔞𝔪𝔢𝔯 𝔖𝔞𝔩𝔢𝔪_**
+# **𝒯𝒶𝓂𝑒𝓇 𝒮𝒶𝓁𝑒𝓂**
 
 > ### Where Powerful Technology Meets Elegant Design, Complexity Becomes Intuitive.
 
